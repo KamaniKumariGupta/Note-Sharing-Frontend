@@ -5,6 +5,7 @@ export default function AboutUs() {
     <>
     <div>kamani</div>
     <p>hsdchh</p>
+    <P>sweta</P>
     </>
   )
 }
